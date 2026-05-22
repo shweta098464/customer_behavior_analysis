@@ -1,2 +1,4 @@
-# customer_behavior_analysis
-Data analysis project showcasing customer behavior analysis using python, sql, power-bi
+# Customer Shopping Behavior Analysis
+
+## Live Dashboard
+https://YOUR-APP-LINK.streamlit.app
