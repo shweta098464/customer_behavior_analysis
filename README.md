@@ -1,4 +1,4 @@
 # Customer Shopping Behavior Analysis
 
 ## Live Dashboard
-https://YOUR-APP-LINK.streamlit.app
+https://customerbehavioranalysis-mbas6cmm7huhz6ceukrhvk.streamlit.app/
